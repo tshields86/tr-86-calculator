@@ -1,0 +1,20 @@
+{
+  "name": "react-express-boostrap-boiler",
+  "description": "React Node Express Boostrap Boilerplate",
+  "main": "index.js",
+  "authors": [
+    "Travis Shields <travis.shields@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/tshields86/react-express-boostrap-boiler",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}

@@ -16,10 +16,12 @@ class NaviBar extends Component {
           </Navbar.Header>
           <Navbar.Collapse>
             <Nav>
-              <LinkContainer to="/About">
-                <NavItem eventKey={1} href="#">About</NavItem>
+              <LinkContainer to="/Calculator">
+                <NavItem eventKey={1} href="#">Calculator</NavItem>
               </LinkContainer>
-              <NavItem eventKey={2} href="#">Link</NavItem>
+              <LinkContainer to="/About">
+                <NavItem eventKey={2} href="#">About</NavItem>
+              </LinkContainer>
               <NavDropdown eventKey={3} title="Dropdown" id="basic-nav-dropdown">
                 <MenuItem eventKey={3.1}>Action</MenuItem>
                 <MenuItem eventKey={3.2}>Another action</MenuItem>

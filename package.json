@@ -1,7 +1,7 @@
 {
-  "name": "react-express-boostrap-boiler",
+  "name": "tr-86-calculator",
   "version": "0.1.0",
-  "description": "React Node Express Boostrap Boilerplate",
+  "description": "Calculator Application",
   "main": "index.js",
   "scripts": {
     "production": "webpack -p",

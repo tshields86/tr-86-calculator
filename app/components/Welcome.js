@@ -8,10 +8,10 @@ class Welcome extends Component {
     return (
       <div>
         <Jumbotron>
-          <h1>Welcome to React Boilerplate</h1>
-          <p>A quick and simple setup using React, Node, Express, Bootstrap-Sass, and Webpack</p>
-          <Link to="/About">
-            <Button bsStyle="danger">Learn more</Button>
+          <h1>TR-86 Calculator</h1>
+          <p>A minimal yet lightning fast calculator for everyday use</p>
+          <Link to="/Calculator">
+            <Button bsStyle="info" bsSize="large">Try it out</Button>
           </Link>
         </Jumbotron>
       </div>

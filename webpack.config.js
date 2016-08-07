@@ -47,6 +47,7 @@ module.exports = {
       Navigation: 'app/components/Navigation.js',
       Welcome: 'app/components/Welcome.js',
       About: 'app/components/About.js',
+      Calculator: 'app/components/Calculator.js',
       applicationStyles: 'app/styles/app.scss'
     },
     extensions: ['', '.js', '.jsx', '.json', '.scss']

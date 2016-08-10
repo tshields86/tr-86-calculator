@@ -1,0 +1,33 @@
+#case {
+  height: 80vh;
+  width: 60vw;
+}
+#screen {
+  height: 20vh;
+  width: 100%;
+  background-color: rgba(19, 19, 19, .5);
+}
+#digits {
+  float: right;
+  margin-top: 5%;
+  margin-right: 8%;
+  font-size: 4.5em;
+  color: #d63c6b;
+}
+#case {
+  button {
+    height: 12vh;
+    width: 25%;
+    font-size: 1.85em;
+    background-color: #292f36;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: left;
+  }
+    .operation {
+      color: #d63c6b;
+    }
+    .number {
+      color: #00a3f5;
+    }
+}

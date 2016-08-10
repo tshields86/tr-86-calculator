@@ -8,7 +8,7 @@ const Main = React.createClass({
     return (
       <div>
         <Navigation/>
-        <div className="container">
+        <div className="container text-center">
           {this.props.children}
         </div>
       </div>

@@ -9,7 +9,7 @@ class Welcome extends Component {
       <div>
         <Jumbotron>
           <h1>TR-86 Calculator</h1>
-          <p>A minimal yet lightning fast calculator for everyday use</p>
+          <p>A lightning fast calculator for everyday use</p>
           <Link to="/Calculator">
             <Button bsStyle="info" bsSize="large">Try it out</Button>
           </Link>

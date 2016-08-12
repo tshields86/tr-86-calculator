@@ -61,7 +61,7 @@ const Calculator = React.createClass({
     let {screen} = this.state;
 
     return (
-      <div>
+      <div className="flex-cent">
         <div id='case'>
           <div id='screen'>
             <p id="digits">{screen}</p>
